@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614397765 source:e:\namdd\2021\ctdlgt\c++\duongdirobot\main.cpp
+	<iostream>
+	"src/DeQuy.cpp"
+
+1614397939 source:e:\namdd\2021\ctdlgt\c++\duongdirobot\src\dequy.cpp
+
+1614397939 e:\namdd\2021\ctdlgt\c++\duongdirobot\src\dequy.cpp
+
