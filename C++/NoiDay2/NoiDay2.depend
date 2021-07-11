@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620448385 source:e:\namdd\2021\ctdlgt\c++\noiday2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620656439 source:e:\namdd\2021\ctdlgt\c++\xauconchungdainhat_3\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+
